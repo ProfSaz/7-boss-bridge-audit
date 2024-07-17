@@ -1,7 +1,7 @@
 ---
 title: Boss Bridge Audit Report
-author: YOUR_NAME_HERE
-date: September 1, 2023
+author: Prof
+date: July 17, 2024
 header-includes:
   - \usepackage{titling}
   - \usepackage{graphicx}
@@ -29,7 +29,7 @@ header-includes:
 Prepared by: YOUR_NAME_HERE
 Lead Auditors: 
 
-- [YOUR_NAME_HERE](enter your URL here)
+- [Prof_Saz](enter your URL here)
 
 Assisting Auditors:
 
@@ -42,7 +42,7 @@ Assisting Auditors:
 
 - [Boss Bridge Audit Report](#boss-bridge-audit-report)
 - [Table of contents](#table-of-contents)
-- [About YOUR\_NAME\_HERE](#about-your_name_here)
+- [About 0xSaz](#about-0xsaz)
 - [Disclaimer](#disclaimer)
 - [Risk Classification](#risk-classification)
 - [Audit Details](#audit-details)
@@ -73,13 +73,13 @@ Assisting Auditors:
 </details>
 </br>
 
-# About YOUR_NAME_HERE
+# About 0xSaz
 
 <!-- Tell people about you! -->
 
 # Disclaimer
 
-The YOUR_NAME_HERE team makes all effort to find as many vulnerabilities in the code in the given time period, but holds no responsibilities for the findings provided in this document. A security audit by the team is not an endorsement of the underlying business or product. The audit was time-boxed and the review of the code was solely on the security aspects of the solidity implementation of the contracts.
+The OxSaz team makes all effort to find as many vulnerabilities in the code in the given time period, but holds no responsibilities for the findings provided in this document. A security audit by the team is not an endorsement of the underlying business or product. The audit was time-boxed and the review of the code was solely on the security aspects of the solidity implementation of the contracts.
 
 # Risk Classification
 
